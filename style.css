@@ -258,3 +258,8 @@ article {
   justify-content: flex-end;
   padding-right: 20px;
 }
+.row-11 {
+  color: var(--red-dk);
+  animation-delay: 2400ms;
+  justify-content: flex-end;
+  padding-right: 20px;
